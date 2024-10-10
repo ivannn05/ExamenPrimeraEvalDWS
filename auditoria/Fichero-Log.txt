@@ -1,0 +1,5 @@
+Se mostrara el menu Empleado
+Selecciono añadir compras a un cliente
+Selecciono añadir compras a un cliente
+Selecciono calculo total de ventas
+Ocurrio un error en la app Error=Text '10-2024' could not be parsed: Unable to obtain LocalDateTime from TemporalAccessor: {MonthOfYear=10, Year=2024},ISO of type java.time.format.Parsed
